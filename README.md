@@ -1,2 +1,2 @@
 # recipes
-books of recipes iOS app
+book of recipes iOS app
